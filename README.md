@@ -1,0 +1,1 @@
+Ceci est mon portfolio, de terminale, il regroupe toutes mes experiences professionnels, mes compétences, mes qualités et mon projet professionnels. Il est codé en html, css, et en .js 
